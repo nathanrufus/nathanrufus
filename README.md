@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react,vue,vanilla**
 
-- 📫 How to reach me **kibetnathan54@gmail.com**
+- 📫 How to reach me **nathankibet54@gmail.com**
 
 - ⚡ Fun fact **I have high sense of humour**
 
